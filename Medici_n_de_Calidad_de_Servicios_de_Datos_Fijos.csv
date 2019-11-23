@@ -1,0 +1,209 @@
+Ciudad,Operador,Año,Valor,kpi,Unidad,Destino
+Bogotá,ETB,2016,8.29,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Bogotá,TELEFONICA,2016,4.73,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Bogotá,TELMEX,2016,5.3,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Bogotá,UNE,2016,4,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Bogotá,ETB,2016,3.16,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Bogotá,TELEFONICA,2016,0.81,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Bogotá,TELMEX,2016,1.26,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Bogotá,UNE,2016,1.01,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Bogotá,ETB,2017,4.586387636,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Bogotá,TELEFONICA,2017,0.7877005343,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Bogotá,TELMEX,2017,1.571727689,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Bogotá,UNE,2017,1.558106372,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Bogotá,ETB,2017,6.630785499,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Bogotá,TELEFONICA,2017,4.291068248,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Bogotá,TELMEX,2017,6.041049031,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Bogotá,UNE,2017,5.032072535,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Bogotá,ETB,2018,9.293220436,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Bogotá,TELEFONICA,2018,5.901328248,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Bogotá,TELMEX,2018,7.557142939,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Bogotá,UNE,2018,6.243706125,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Bogotá,ETB,2018,6.337231987,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Bogotá,TELEFONICA,2018,1.345773103,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Bogotá,TELMEX,2018,2.056714215,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Bogotá,UNE,2018,1.555757033,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cali,EMCALI,2017,0.8710779983,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cali,TELEFONICA,2017,0.740939692,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cali,TELMEX,2017,1.112362115,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cali,UNE,2017,1.263633668,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cali,EMCALI,2017,3.070467395,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cali,TELEFONICA,2017,3.637044917,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cali,TELMEX,2017,4.40224857,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cali,UNE,2017,4.962049577,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cali,EMCALI,2018,3.294300692,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cali,TELEFONICA,2018,3.915649517,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cali,TELMEX,2018,7.325791981,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cali,UNE,2018,5.609196032,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cali,EMCALI,2018,0.7683440238,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cali,TELEFONICA,2018,1.204552421,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cali,TELMEX,2018,1.787254279,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cali,UNE,2018,1.271616896,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cali,EMCALI,2016,2.55,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cali,TELEFONICA,2016,4.9,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cali,TELMEX,2016,3.93,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cali,UNE,2016,4.12,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cali,EMCALI,2016,1.61,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cali,TELEFONICA,2016,0.71,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cali,TELMEX,2016,0.88,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cali,UNE,2016,1.01,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cúcuta,ETB,2017,1.066245078,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cúcuta,TELEFONICA,2017,0.7267532505,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cúcuta,TELMEX,2017,1.037070964,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cúcuta,UNE,2017,1.343502817,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cúcuta,ETB,2017,3.034454451,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cúcuta,TELEFONICA,2017,3.325628432,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cúcuta,TELMEX,2017,4.350845001,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cúcuta,UNE,2017,4.611271547,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cúcuta,ETB,2018,3.103820729,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cúcuta,TELEFONICA,2018,3.901124524,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cúcuta,TELMEX,2018,6.332035331,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cúcuta,UNE,2018,6.216449574,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cúcuta,ETB,2018,1.010421957,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cúcuta,TELEFONICA,2018,1.032674153,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cúcuta,TELMEX,2018,1.54328134,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cúcuta,UNE,2018,1.475403276,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cúcuta,ETB,2016,3.13,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cúcuta,TELEFONICA,2016,2.48,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cúcuta,TELMEX,2016,4.21,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cúcuta,UNE,2016,4.02,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Cúcuta,ETB,2016,1.04,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cúcuta,TELEFONICA,2016,0.72,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cúcuta,TELMEX,2016,0.99,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Cúcuta,UNE,2016,1.1,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Medellín,TELMEX,2017,1.336036654,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Medellín,UNE,2017,1.495915074,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Medellín,TELMEX,2017,5.428144486,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Medellín,UNE,2017,6.068983525,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Medellín,TELMEX,2018,8.468954744,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Medellín,UNE,2018,7.081834845,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Medellín,TELMEX,2018,2.117303486,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Medellín,UNE,2018,1.558765858,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Medellín,TELMEX,2016,4.74,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Medellín,UNE,2016,4.65,1. HTTP DL - Velocidad de descarga [Mbps],[Mbps],
+Medellín,TELMEX,2016,1.18,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Medellín,UNE,2016,1.1,2. HTTP Up - Velocidad de carga [Mbps],[Mbps],
+Bogotá,ETB,2017,16.9798865877873,Tiempo de carga Web,Segundos,
+Bogotá,TELEFONICA,2017,15.8872757252064,Tiempo de carga Web,Segundos,
+Bogotá,TELMEX,2017,11.8585433170381,Tiempo de carga Web,Segundos,
+Bogotá,UNE,2017,13.3837484730548,Tiempo de carga Web,Segundos,
+Cali,EMCALI,2017,14.698387261791801,Tiempo de carga Web,Segundos,
+Cali,TELEFONICA,2017,16.332955374176798,Tiempo de carga Web,Segundos,
+Cali,TELMEX,2017,12.6866003994781,Tiempo de carga Web,Segundos,
+Cali,UNE,2017,11.8159982231025,Tiempo de carga Web,Segundos,
+Cúcuta,ETB,2017,14.601356011169601,Tiempo de carga Web,Segundos,
+Cúcuta,TELEFONICA,2017,17.9673798498004,Tiempo de carga Web,Segundos,
+Cúcuta,TELMEX,2017,12.1367195877065,Tiempo de carga Web,Segundos,
+Cúcuta,UNE,2017,16.885179104342203,Tiempo de carga Web,Segundos,
+Medellín,TELMEX,2017,11.159303462391401,Tiempo de carga Web,Segundos,
+Medellín,UNE,2017,10.95538375125,Tiempo de carga Web,Segundos,
+Bogotá,ETB,2018,17.2871989287892,Tiempo de carga Web,Segundos,
+Bogotá,TELEFONICA,2018,14.8257188932945,Tiempo de carga Web,Segundos,
+Bogotá,TELMEX,2018,13.4991255653913,Tiempo de carga Web,Segundos,
+Bogotá,UNE,2018,15.168204786403999,Tiempo de carga Web,Segundos,
+Cali,EMCALI,2018,18.208525599236,Tiempo de carga Web,Segundos,
+Cali,TELEFONICA,2018,17.3151761323158,Tiempo de carga Web,Segundos,
+Cali,TELMEX,2018,14.8930726570815,Tiempo de carga Web,Segundos,
+Cali,UNE,2018,15.4650896842927,Tiempo de carga Web,Segundos,
+Cúcuta,ETB,2018,18.0829112139407,Tiempo de carga Web,Segundos,
+Cúcuta,TELEFONICA,2018,17.7176214239812,Tiempo de carga Web,Segundos,
+Cúcuta,TELMEX,2018,14.8842684279401,Tiempo de carga Web,Segundos,
+Cúcuta,UNE,2018,14.498460365610201,Tiempo de carga Web,Segundos,
+Medellín,TELMEX,2018,13.3012657003791,Tiempo de carga Web,Segundos,
+Medellín,UNE,2018,13.287780175891399,Tiempo de carga Web,Segundos,
+Bogotá,ETB,2016,11.73176,Tiempo de carga Web,Segundos,
+Bogotá,TELEFONICA,2016,10.65567,Tiempo de carga Web,Segundos,
+Bogotá,TELMEX,2016,9.66776,Tiempo de carga Web,Segundos,
+Bogotá,UNE,2016,10.163350000000001,Tiempo de carga Web,Segundos,
+Cali,EMCALI,2016,16.83297,Tiempo de carga Web,Segundos,
+Cali,TELEFONICA,2016,10.933440000000001,Tiempo de carga Web,Segundos,
+Cali,TELMEX,2016,10.596879999999999,Tiempo de carga Web,Segundos,
+Cali,UNE,2016,9.937940000000001,Tiempo de carga Web,Segundos,
+Cúcuta,ETB,2016,11.13385,Tiempo de carga Web,Segundos,
+Cúcuta,TELEFONICA,2016,13.39988,Tiempo de carga Web,Segundos,
+Cúcuta,TELMEX,2016,9.77984,Tiempo de carga Web,Segundos,
+Cúcuta,UNE,2016,10.293379999999999,Tiempo de carga Web,Segundos,
+Medellín,TELMEX,2016,9.50042,Tiempo de carga Web,Segundos,
+Medellín,UNE,2016,9.41562,Tiempo de carga Web,Segundos,
+Bogotá,ETB,2017,98.4647919769877,Latencia,Milisegundos,
+Bogotá,TELEFONICA,2017,118.391652375712,Latencia,Milisegundos,
+Bogotá,TELMEX,2017,81.2264279423646,Latencia,Milisegundos,
+Bogotá,UNE,2017,72.9002575095945,Latencia,Milisegundos,
+Cali,EMCALI,2017,114.059697305333,Latencia,Milisegundos,
+Cali,TELEFONICA,2017,128.026593542981,Latencia,Milisegundos,
+Cali,TELMEX,2017,106.032906414507,Latencia,Milisegundos,
+Cali,UNE,2017,82.9189939053053,Latencia,Milisegundos,
+Cúcuta,ETB,2017,103.95012229113,Latencia,Milisegundos,
+Cúcuta,TELEFONICA,2017,128.973703366082,Latencia,Milisegundos,
+Cúcuta,TELMEX,2017,90.0714712608385,Latencia,Milisegundos,
+Cúcuta,UNE,2017,92.2667822196254,Latencia,Milisegundos,
+Medellín,TELMEX,2017,87.4437714243208,Latencia,Milisegundos,
+Medellín,UNE,2017,73.6876815945908,Latencia,Milisegundos,
+Bogotá,ETB,2018,71.783097694371,Latencia,Milisegundos,
+Bogotá,TELEFONICA,2018,91.2573890483144,Latencia,Milisegundos,
+Bogotá,TELMEX,2018,96.179904965961,Latencia,Milisegundos,
+Bogotá,UNE,2018,137.371195594926,Latencia,Milisegundos,
+Cali,EMCALI,2018,114.615926665437,Latencia,Milisegundos,
+Cali,TELEFONICA,2018,155.925752712457,Latencia,Milisegundos,
+Cali,TELMEX,2018,142.443086876626,Latencia,Milisegundos,
+Cali,UNE,2018,115.491329867954,Latencia,Milisegundos,
+Cúcuta,ETB,2018,96.0388646639885,Latencia,Milisegundos,
+Cúcuta,TELEFONICA,2018,132.396842163864,Latencia,Milisegundos,
+Cúcuta,TELMEX,2018,161.744878359282,Latencia,Milisegundos,
+Cúcuta,UNE,2018,124.262574845124,Latencia,Milisegundos,
+Medellín,TELMEX,2018,82.1347677317705,Latencia,Milisegundos,
+Medellín,UNE,2018,65.9614878596798,Latencia,Milisegundos,
+Bogotá,ETB,2016,99.84,Latencia,Milisegundos,
+Bogotá,TELEFONICA,2016,104.25,Latencia,Milisegundos,
+Bogotá,TELMEX,2016,99.32,Latencia,Milisegundos,
+Bogotá,UNE,2016,73.29,Latencia,Milisegundos,
+Cali,EMCALI,2016,,Latencia,Milisegundos,
+Cali,TELEFONICA,2016,,Latencia,Milisegundos,
+Cali,TELMEX,2016,,Latencia,Milisegundos,
+Cali,UNE,2016,,Latencia,Milisegundos,
+Cúcuta,ETB,2016,142,Latencia,Milisegundos,
+Cúcuta,TELEFONICA,2016,131.08,Latencia,Milisegundos,
+Cúcuta,TELMEX,2016,125.89,Latencia,Milisegundos,
+Cúcuta,UNE,2016,105.12,Latencia,Milisegundos,
+Medellín,TELMEX,2016,99.32,Latencia,Milisegundos,
+Medellín,UNE,2016,73.29,Latencia,Milisegundos,
+Bogotá,ETB,2017,28.91708160943058,Tiempo de carga Web por destino,Segundos,eltiempo
+Bogotá,ETB,2018,40.0378786666559,Tiempo de carga Web por destino,Segundos,eltiempo
+Cali,EMCALI,2017,29.648441667211195,Tiempo de carga Web por destino,Segundos,eltiempo
+Cali,EMCALI,2018,43.1726167315941,Tiempo de carga Web por destino,Segundos,eltiempo
+Cúcuta,ETB,2017,34.761467760923544,Tiempo de carga Web por destino,Segundos,eltiempo
+Cúcuta,ETB,2018,41.6656260916505,Tiempo de carga Web por destino,Segundos,eltiempo
+Medellín,TELMEX,2017,25.92362432011363,Tiempo de carga Web por destino,Segundos,eltiempo
+Medellín,TELMEX,2018,37.270153904471286,Tiempo de carga Web por destino,Segundos,eltiempo
+Bogotá,ETB,2017,5.292281438004387,Tiempo de carga Web por destino,Segundos,facebook
+Bogotá,ETB,2018,11.748498473204014,Tiempo de carga Web por destino,Segundos,facebook
+Cali,EMCALI,2017,4.442177645935364,Tiempo de carga Web por destino,Segundos,facebook
+Cali,EMCALI,2018,12.217339509286786,Tiempo de carga Web por destino,Segundos,facebook
+Cúcuta,ETB,2017,4.94540237114167,Tiempo de carga Web por destino,Segundos,facebook
+Cúcuta,ETB,2018,12.654614528525274,Tiempo de carga Web por destino,Segundos,facebook
+Medellín,TELMEX,2017,3.314833456370922,Tiempo de carga Web por destino,Segundos,facebook
+Medellín,TELMEX,2018,9.322890723462324,Tiempo de carga Web por destino,Segundos,facebook
+Bogotá,ETB,2017,4.71748625052371,Tiempo de carga Web por destino,Segundos,google
+Bogotá,ETB,2018,4.560770953021797,Tiempo de carga Web por destino,Segundos,google
+Cali,EMCALI,2017,4.396418052649214,Tiempo de carga Web por destino,Segundos,google
+Cali,EMCALI,2018,4.919119560278998,Tiempo de carga Web por destino,Segundos,google
+Cúcuta,ETB,2017,4.756348193728662,Tiempo de carga Web por destino,Segundos,google
+Cúcuta,ETB,2018,5.242932807283552,Tiempo de carga Web por destino,Segundos,google
+Medellín,TELMEX,2017,3.533049694487615,Tiempo de carga Web por destino,Segundos,google
+Medellín,TELMEX,2018,3.442816548200208,Tiempo de carga Web por destino,Segundos,google
+Bogotá,ETB,2017,2.856286074275558,Tiempo de carga Web por destino,Segundos,wikipedia
+Bogotá,ETB,2018,2.642231575112101,Tiempo de carga Web por destino,Segundos,wikipedia
+Cali,EMCALI,2017,2.307892187755251,Tiempo de carga Web por destino,Segundos,wikipedia
+Cali,EMCALI,2018,2.581389221136431,Tiempo de carga Web por destino,Segundos,wikipedia
+Cúcuta,ETB,2017,2.515586551748348,Tiempo de carga Web por destino,Segundos,wikipedia
+Cúcuta,ETB,2018,2.757233186081324,Tiempo de carga Web por destino,Segundos,wikipedia
+Medellín,TELMEX,2017,1.946256783834265,Tiempo de carga Web por destino,Segundos,wikipedia
+Medellín,TELMEX,2018,2.018710077922308,Tiempo de carga Web por destino,Segundos,wikipedia
+Bogotá,ETB,2017,9.680990830281466,Tiempo de carga Web por destino,Segundos,youtube
+Bogotá,ETB,2018,7.527010903799351,Tiempo de carga Web por destino,Segundos,youtube
+Cali,EMCALI,2017,9.739661857154777,Tiempo de carga Web por destino,Segundos,youtube
+Cali,EMCALI,2018,8.169340690719167,Tiempo de carga Web por destino,Segundos,youtube
+Cúcuta,ETB,2017,15.494063091769164,Tiempo de carga Web por destino,Segundos,youtube
+Cúcuta,ETB,2018,8.832388265620978,Tiempo de carga Web por destino,Segundos,youtube
+Medellín,TELMEX,2017,7.658271836035409,Tiempo de carga Web por destino,Segundos,youtube
+Medellín,TELMEX,2018,6.293852728968234,Tiempo de carga Web por destino,Segundos,youtube
